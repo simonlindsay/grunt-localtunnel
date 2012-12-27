@@ -1,0 +1,38 @@
+{
+  "name": "grunt-localtunnel",
+  "description": "start a localtunnel session",
+  "version": "0.0.1",
+  "homepage": "https://github.com/simonlindsay/grunt-localtunnel",
+  "author": {
+    "name": "Simon Lindsay",
+    "email": "simonlindsay@gmail.com"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/simonlindsay//grunt-localtunnel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vojtajina/grunt-localtunnel/issues"
+  },
+  "main": "grunt.js",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+      "grunt": ">=0.3.8"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "readme": "# grunt-localtunnel\n\n**Grunt Local Tunnel.**\n\n## Installation\n\nInstall npm package, next to your project's `grunt.js` file:\n\n    npm install grunt-localtunnel\n\nAdd this line to your project's `grunt.js`:\n\n    grunt.loadNpmTasks('grunt-localtunnel');",
+  "_id": "grunt-localtunnel@0.0.1",
+  "dist": {
+    "shasum": "b5347e4e36e6be6f61b5650df6958bb7fb47ec23"
+  },
+  "_from": "grunt-bump"
+}
