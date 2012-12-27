@@ -6,9 +6,6 @@ $ cat .gitignore
 # Use wildcards as well
 *~
 *.swp
-*.idea
 
 # Can also ignore all directories and files in a directory.
-.idea/*
-.idea/**/*
-.idea/workspace.xml
+.idea/
