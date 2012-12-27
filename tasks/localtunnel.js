@@ -13,7 +13,8 @@ module.exports = function(grunt) {
 
 
 		this.async();
-		grunt.log.write('Requesting localtunne.me url...\n');
+
+		grunt.log.write('Requesting localtunnel.me url...\n');
 
 		var lt_client = require('localtunnel').client;
 
@@ -21,7 +22,7 @@ module.exports = function(grunt) {
 			// the localtunnel server
 			host: 'http://localtunnel.me',
 			// your local application port
-			port: 80
+			port: port
 		});
 
 		// when your are assigned a url
