@@ -1,7 +1,7 @@
 {
   "name": "grunt-localtunnel",
   "description": "start a localtunnel session",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "homepage": "https://github.com/simonlindsay/grunt-localtunnel",
   "author": {
     "name": "Simon Lindsay",
@@ -23,7 +23,6 @@
     "test": "grunt test"
   },
   "dependencies": {
-	  "grunt": ">=0.3.8",
 	  "localtunnel": "~0.0.4"
   },
   "devDependencies": {
