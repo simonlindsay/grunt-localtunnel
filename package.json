@@ -1,7 +1,7 @@
 {
   "name": "grunt-localtunnel",
   "description": "start a localtunnel session",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/simonlindsay/grunt-localtunnel",
   "author": {
     "name": "Simon Lindsay",
@@ -13,7 +13,7 @@
     "url": "git://github.com/simonlindsay/grunt-localtunnel.git"
   },
   "bugs": {
-    "url": "https://github.com/vojtajina/grunt-localtunnel/issues"
+    "url": "https://github.com/simonlindsay/grunt-localtunnel/issues"
   },
   "main": "grunt.js",
   "engines": {
